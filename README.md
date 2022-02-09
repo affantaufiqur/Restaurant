@@ -4,7 +4,7 @@ This project was for learning front-end framework with react js, by following tu
 <br>
 [Channel Link](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A) <br>
 [Video Link](https://www.youtube.com/watch?v=4oV65GVVits) <br>
-[Website Link](https://restaurant-3efrmgqhp-affantaufiqur.vercel.app/)
+[Website Link](https://restaurant-affantaufiqur.vercel.app/)
 
 # Technologies
 React js <br>
